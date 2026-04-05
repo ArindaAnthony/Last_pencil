@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\gradle\gradle-9.4.1" />
+        <option name="gradleJvm" value="valhalla-ea-23" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/File class/Are siblings" />
+            <option value="$PROJECT_DIR$/Topics/File class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Characterize the constructors" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Constructor definition" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Creating news" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Default constructor" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Fixing the car class to print the color" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Geometric cube" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Initializing and accessing class member in a greeting method" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/User" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Circle" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Completing a method to sum array elements" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Declare me" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Implementing an instance method to print greeting messages" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/In a box" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/The Robot class" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Completing the Dog class program" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Creating and printing a 'Vehicle' object in Java" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Filling in the blanks for a canine-centric code" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Find reference types" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Immutability" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Null or not" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/What is my age" />
+            <option value="$PROJECT_DIR$/Topics/Objects and their properties/What is the value of a field" />
+            <option value="$PROJECT_DIR$/Topics/Static members/About static members" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Applying the static keyword" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Searching bugs" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Sequence of steps to define and access a static member" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Static and instance members" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+    <option name="parallelModelFetch" value="true" />
+  </component>
+</project>
