@@ -10,3 +10,4 @@ content:
   - Hierarchy of exceptions
   - Throwing exceptions
   - Try with resources
+  - LocalDate
