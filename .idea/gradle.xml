@@ -61,6 +61,10 @@
             <option value="$PROJECT_DIR$/Topics/LocalDate/Print dates of a year with an offset" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/The last day of a month" />
             <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Return time without seconds" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds between two time points" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Theory" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Army" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Completing the Dog class program" />
             <option value="$PROJECT_DIR$/Topics/Objects and their properties/Creating and printing a 'Vehicle' object in Java" />

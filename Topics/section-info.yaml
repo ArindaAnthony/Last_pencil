@@ -11,3 +11,4 @@ content:
   - Throwing exceptions
   - Try with resources
   - LocalDate
+  - LocalTime
