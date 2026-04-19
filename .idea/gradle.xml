@@ -19,8 +19,17 @@
             <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results" />
             <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Print the age" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Validating and squaring user input" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
             <option value="$PROJECT_DIR$/Topics/File class/Are siblings" />
             <option value="$PROJECT_DIR$/Topics/File class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/BadRequestException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Base class" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/UncheckedException" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/A required part of a class" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Account and its owner" />
             <option value="$PROJECT_DIR$/Topics/Initializing new instances. Constructor/Automatically created constructor" />
@@ -68,6 +77,14 @@
             <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
             <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
             <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Days of the week" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/The root of a number" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw a checked exception" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an IOException" />
+            <option value="$PROJECT_DIR$/Topics/Throwing exceptions/Throw an unchecked exception" />
+            <option value="$PROJECT_DIR$/Topics/Try with resources/Can be fixed" />
+            <option value="$PROJECT_DIR$/Topics/Try with resources/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

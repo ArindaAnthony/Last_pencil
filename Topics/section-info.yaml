@@ -6,3 +6,7 @@ content:
   - File class
   - Random class
   - Input streams
+  - Errors in programs
+  - Hierarchy of exceptions
+  - Throwing exceptions
+  - Try with resources
